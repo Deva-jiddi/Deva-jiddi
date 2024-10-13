@@ -1,3 +1,3 @@
 ## Hi there 👋
 Welcome to My GitHub profile
-I have uploaded my Learning here.
+I have uploaded my Learnings here.
